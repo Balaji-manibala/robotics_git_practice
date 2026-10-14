@@ -1,6 +1,7 @@
 robot_name = "Duckiebot"
-battery_level = 85
+battery_level = 65
 speed = 0.5
+camera = True
 
 print("Robot Name:",robot_name)
 print("Battery Level:",battery_level,"%")
