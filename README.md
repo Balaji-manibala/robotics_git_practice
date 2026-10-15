@@ -13,3 +13,4 @@ This project is used to learn Git and GitHub.
 - Track changes using Git
 - Create and merge branches
 - Share Python programs using GitHub
+- Collaborate with teammates using pull requests
