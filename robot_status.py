@@ -1,5 +1,6 @@
 robot_name = "Duckiebot"
-battery_level = 60
+
+battery_level = 70
 speed = 0.5
 camera = True
 
